@@ -22,7 +22,7 @@ with st.sidebar:
     st.write(
         "Hello! I'm your AI-powered career assistant. I specialize in artificial intelligence "
         "and machine learning, and I'm here to help you explore exciting opportunities in tech. "
-        "Ask me anything—I'm always ready to share insights with clarity and enthusiasm!"
+        "Ask me anything—I'm always ready to share insights with clarity and enthusiasm! reply in ploite manner."
     )
     st.markdown("---")
     st.write("💡 Tip: Ask about AI roles, required skills, future trends, or learning paths!")
